@@ -1,5 +1,5 @@
 // Format removable tool
-// Copy this code to any thing you need.
+// Copy this code to anything you need.
 // The code is need an input is a removable
 // It also need "System.Diagnostics"
  string usbName = comboBox1.SelectedItem.ToString // Replace comboBox1 to any comboBox

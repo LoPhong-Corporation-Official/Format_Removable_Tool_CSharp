@@ -2,6 +2,7 @@
 // Copy this code to anything you need.
 // The code is need an input is a removable
 // It also need "System.Diagnostics"
+// Here is the code you need
  string usbName = comboBox1.SelectedItem.ToString // Replace comboBox1 to any comboBox
  string driveLetter = usbName.Substring(0, 2);
   Process process = new Process();
